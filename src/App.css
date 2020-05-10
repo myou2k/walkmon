@@ -1,0 +1,30 @@
+.track-div{
+  height: 232.5px;
+  width: 232.5px;
+}
+.track-img{
+  height: 232.5px;
+  width: 232.5px;
+  overflow: hidden
+}
+.track-name{
+  position: absolute;
+  bottom: 5px;
+  background-color: black;
+  color: white;
+  width: 100%
+}
+
+.control-icon{
+  position: absolute;
+  height: 30px;
+  width: 30px;
+  border-radius: 15px;
+  bottom: 100px;
+  left: 100px;
+  background-color: black;
+  color: white;
+  padding-top: 2px;
+  padding-left: 1px;
+  opacity: 0.75;
+}
